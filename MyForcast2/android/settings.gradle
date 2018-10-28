@@ -1,0 +1,3 @@
+rootProject.name = 'MyForcast2'
+
+include ':app'
